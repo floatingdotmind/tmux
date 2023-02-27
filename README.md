@@ -1,13 +1,14 @@
-"# tmux"
+## Tmux personal config
 
-## just copy the ".tmux.conf" in home directory
+**How to Use**:
+Just copy the **.tmux.conf** in your **home ($HOME)** directory
 
-#### Prefix: `Ctrl + A`
+- **Prefix**: `Ctrl + A`
 
-#### Switch `Panes`: `Alt + Arrow`
+- **Switch `Panes`**: `Alt + Arrow`
 
-#### Switch `Windows`: `Shift + Arrow`
+- **Switch `Windows`**: `Shift + Arrow`
 
-#### Set easier `Window Split`: `Prefix +  (v | h)`
+- **Set easier `Window Split`**: `Prefix +  (v | h)`
 
-Check the tmux [cheatsheet](https://tmuxcheatsheet.com/).
+- Check the tmux [cheatsheet](https://tmuxcheatsheet.com/).
